@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alexjulio\\Desktop\\dev\\Teste\\Cliente.Api\\ClienteApi.Api\\ClienteApi.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alexjulio\\Desktop\\dev\\Teste\\Cliente.Api\\ClienteApi.Api\\ClienteApi.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexjulio\\Desktop\\dev\\Teste\\Cliente.Api\\ClienteApi.Api\\ClienteApi.Api.csproj",
+        "projectName": "ClienteApi.Api",
+        "projectPath": "C:\\Users\\alexjulio\\Desktop\\dev\\Teste\\Cliente.Api\\ClienteApi.Api\\ClienteApi.Api.csproj",
+        "packagesPath": "C:\\Users\\alexjulio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexjulio\\Desktop\\dev\\Teste\\Cliente.Api\\ClienteApi.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alexjulio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\alexjulio\\Desktop\\dev\\Teste\\Cliente.Api\\ClienteApi.Lib\\ClienteApi.Lib.csproj": {
+                "projectPath": "C:\\Users\\alexjulio\\Desktop\\dev\\Teste\\Cliente.Api\\ClienteApi.Lib\\ClienteApi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\alexjulio\\Desktop\\dev\\Teste\\Cliente.Api\\ClienteApi.Lib\\ClienteApi.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexjulio\\Desktop\\dev\\Teste\\Cliente.Api\\ClienteApi.Lib\\ClienteApi.Lib.csproj",
+        "projectName": "ClienteApi.Lib",
+        "projectPath": "C:\\Users\\alexjulio\\Desktop\\dev\\Teste\\Cliente.Api\\ClienteApi.Lib\\ClienteApi.Lib.csproj",
+        "packagesPath": "C:\\Users\\alexjulio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexjulio\\Desktop\\dev\\Teste\\Cliente.Api\\ClienteApi.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alexjulio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.112, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

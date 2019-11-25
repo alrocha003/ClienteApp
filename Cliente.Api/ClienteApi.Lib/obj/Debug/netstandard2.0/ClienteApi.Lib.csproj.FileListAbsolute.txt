@@ -1,0 +1,4 @@
+C:\Users\alexjulio\Desktop\dev\Teste\Cliente.Api\ClienteApi.Lib\obj\Debug\netstandard2.0\ClienteApi.Lib.csprojAssemblyReference.cache
+C:\Users\alexjulio\Desktop\dev\Teste\Cliente.Api\ClienteApi.Lib\obj\Debug\netstandard2.0\ClienteApi.Lib.csproj.CoreCompileInputs.cache
+C:\Users\alexjulio\Desktop\dev\Teste\Cliente.Api\ClienteApi.Lib\obj\Debug\netstandard2.0\ClienteApi.Lib.AssemblyInfoInputs.cache
+C:\Users\alexjulio\Desktop\dev\Teste\Cliente.Api\ClienteApi.Lib\obj\Debug\netstandard2.0\ClienteApi.Lib.AssemblyInfo.cs
